@@ -61,3 +61,21 @@ Node.js
 Express.js
 Database
 MongoDB
+
+📂 Project Structure
+chandravanshi-e-scooty/
+│
+├── client/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── server/
+│   ├── controllers/
+│   ├── routes/
+│   ├── models/
+│   ├── middleware/
+│   └── package.json
+│
+├── README.md
+└── .env
