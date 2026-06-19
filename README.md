@@ -12,3 +12,10 @@ Record actual purchase price
 Record selling price
 Edit existing records
 Delete entries
+
+💰 Automatic Profit Calculation
+    
+Calculates profit automatically
+Profit = Selling Price - Actual Price
+Instant profit display
+Accurate business tracking
