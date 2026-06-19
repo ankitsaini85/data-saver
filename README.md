@@ -21,9 +21,31 @@ Instant profit display
 Accurate business tracking
 
 📊 Dashboard & Analytics
+
 Total E-Scooty Sold
 Total Revenue
 Total Profit
 Monthly Profit Reports
 Monthly Sales Reports
 Business Performance Overview
+
+📅 Monthly Reports
+
+View entries month-wise
+Monthly sales summary
+Monthly profit summary
+Track business growth
+
+
+🔍 Search & Filter
+
+Search scooter records
+Filter by month
+View historical entries
+
+
+📱 Responsive Design
+
+Mobile Friendly
+Tablet Friendly
+Desktop Friendly
