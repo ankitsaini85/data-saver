@@ -49,3 +49,15 @@ View historical entries
 Mobile Friendly
 Tablet Friendly
 Desktop Friendly
+
+🛠️ Tech Stack
+Frontend
+React.js
+TypeScript
+Tailwind CSS / Material UI
+Axios
+Backend
+Node.js
+Express.js
+Database
+MongoDB
