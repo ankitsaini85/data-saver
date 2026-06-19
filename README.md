@@ -14,8 +14,16 @@ Edit existing records
 Delete entries
 
 💰 Automatic Profit Calculation
-    
+
 Calculates profit automatically
 Profit = Selling Price - Actual Price
 Instant profit display
 Accurate business tracking
+
+📊 Dashboard & Analytics
+Total E-Scooty Sold
+Total Revenue
+Total Profit
+Monthly Profit Reports
+Monthly Sales Reports
+Business Performance Overview
